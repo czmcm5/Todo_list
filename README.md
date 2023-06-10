@@ -10,5 +10,6 @@ React Router를 활용하여 SPA(Single-Page-Application)로 만든 간단한 �
 ## SPA 단점
 <ul>
   <li> 첫 화면의 로딩이 길다. </li>
+  <li> 수정중 </li>
 </ul>
 
